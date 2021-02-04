@@ -1,0 +1,420 @@
+[
+  {
+     "model": "Chevrolet Malibu, Chevelle 6, V6",
+     "1976": 3,
+     "1977": 3,
+     "1978": 2,
+     "1979": 2,
+     "1980": 2,
+     "1981": 2,
+     "cost index": 5
+  },
+  {
+    "model": "Chevrolet Malibu, Chevelle 6, V6",
+    "year": "1977",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Chevrolet Malibu, Chevelle 6, V6",
+    "year": "1978",
+    "trouble index": 2,
+    "cost index": 3
+  },
+  {
+    "model": "Chevrolet Malibu, Chevelle 6, V6",
+    "year": "1979",
+    "trouble index": 2,
+    "cost index": 5
+  },
+  {
+    "model": "Chevrolet Malibu, Chevelle 6, V6",
+    "year": "1980",
+    "trouble index": 2,
+    "cost index": 5
+  },
+  {
+    "model": "Chevrolet Malibu, Chevelle 6, V6",
+    "year": "1981",
+    "trouble index": 2,
+    "cost index": 5
+  },
+  {
+    "model": "Chevrolet Monza 4",
+    "year": "1976",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Chevrolet Monza 4",
+    "year": "1977",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Chevrolet Monza 4",
+    "year": "1978",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Chevrolet Monza 4",
+    "year": "1979",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Chevrolet Monza 4",
+    "year": "1980",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Chevrolet Monza 4",
+    "year": "1981",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Datsun 210, B210",
+    "year": "1976",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Datsun 210, B210",
+    "year": "1977",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Datsun 210, B210",
+    "year": "1978",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Datsun 210, B210",
+    "year": "1979",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Datsun 210, B210",
+    "year": "1980",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Datsun 210, B210",
+    "year": "1981",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Ford Granada 6",
+    "year": "1976",
+    "trouble index": 3,
+    "cost index": 3
+  },
+  {
+    "model": "Ford Granada 6",
+    "year": "1977",
+    "trouble index": 3,
+    "cost index": 4
+  },
+  {
+    "model": "Ford Granada 6",
+    "year": "1978",
+    "trouble index": 3,
+    "cost index": 4
+  },
+  {
+    "model": "Ford Granada 6",
+    "year": "1979",
+    "trouble index": 2,
+    "cost index": 4
+  },
+  {
+    "model": "Ford Granada 6",
+    "year": "1980",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Ford Granada 6",
+    "year": "1981",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Ford pickup truck 6 (2WD)",
+    "year": "1976",
+    "trouble index": 3,
+    "cost index": 4
+  },
+  {
+    "model": "Ford pickup truck 6 (2WD)",
+    "year": "1977",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Ford pickup truck 6 (2WD)",
+    "year": "1978",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Ford pickup truck 6 (2WD)",
+    "year": "1979",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Ford pickup truck 6 (2WD)",
+    "year": "1980",
+    "trouble index": 2,
+    "cost index": 5
+  },
+  {
+    "model": "Ford pickup truck 6 (2WD)",
+    "year": "1981",
+    "trouble index": 3,
+    "cost index": 5
+  },
+  {
+    "model": "Honda Accord",
+    "year": "1976",
+    "trouble index": 4,
+    "cost index": 3
+  },
+  {
+    "model": "Honda Accord",
+    "year": "1977",
+    "trouble index": 4,
+    "cost index": 3
+  },
+  {
+    "model": "Honda Accord",
+    "year": "1978",
+    "trouble index": 4,
+    "cost index": 3
+  },
+  {
+    "model": "Honda Accord",
+    "year": "1979",
+    "trouble index": 5,
+    "cost index": 4
+  },
+  {
+    "model": "Honda Accord",
+    "year": "1980",
+    "trouble index": 5,
+    "cost index": 4
+  },
+  {
+    "model": "Honda Accord",
+    "year": "1981",
+    "trouble index": 5,
+    "cost index": 3
+  },
+  {
+    "model": "Mercedez-Benz 300D 5(diesel)",
+    "year": "1976",
+    "trouble index": 5,
+    "cost index": 2
+  },
+  {
+    "model": "Mercedez-Benz 300D 5(diesel)",
+    "year": "1977",
+    "trouble index": 5,
+    "cost index": 1
+  },
+  {
+    "model": "Mercedez-Benz 300D 5(diesel)",
+    "year": "1978",
+    "trouble index": 5,
+    "cost index": 1
+  },
+  {
+    "model": "Mercedez-Benz 300D 5(diesel)",
+    "year": "1979",
+    "trouble index": 5,
+    "cost index": 1
+  },
+  {
+    "model": "Mercedez-Benz 300D 5(diesel)",
+    "year": "1980",
+    "trouble index": 5,
+    "cost index": 1
+  },
+  {
+    "model": "Plymouth Volare 6",
+    "year": "1976",
+    "trouble index": 2,
+    "cost index": 5
+  },
+  {
+    "model": "Plymouth Volare 6",
+    "year": "1977",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Plymouth Volare 6",
+    "year": "1978",
+    "trouble index": 1,
+    "cost index": 3
+  },
+  {
+    "model": "Plymouth Volare 6",
+    "year": "1979",
+    "trouble index": 2,
+    "cost index": 4
+  },
+  {
+    "model": "Plymouth Volare 6",
+    "year": "1980",
+    "trouble index": 3,
+    "cost index": 3
+  },
+  {
+    "model": "Subary (except 4WD)",
+    "year": "1976",
+    "trouble index": 3,
+    "cost index": 3
+  },
+  {
+    "model": "Subary (except 4WD)",
+    "year": "1977",
+    "trouble index": 4,
+    "cost index": 4
+  },
+  {
+    "model": "Subary (except 4WD)",
+    "year": "1978",
+    "trouble index": 4,
+    "cost index": 4
+  },
+  {
+    "model": "Subary (except 4WD)",
+    "year": "1979",
+    "trouble index": 5,
+    "cost index": 4
+  },
+  {
+    "model": "Subary (except 4WD)",
+    "year": "1980",
+    "trouble index": 5,
+    "cost index": 4
+  },
+  {
+    "model": "Subary (except 4WD)",
+    "year": "1981",
+    "trouble index": 5,
+    "cost index": 3
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": "1976",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": "1977",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": "1978",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": "1979",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": "1980",
+    "trouble index": 5,
+    "cost index": 4
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": "1981",
+    "trouble index": 5,
+    "cost index": 5
+  },
+  {
+    "model": "Volkswagen Rabbit (diesel)",
+    "year": "1977",
+    "trouble index": 4,
+    "cost index": 3
+  },
+  {
+    "model": "Volkswagen Rabbit (diesel)",
+    "year": "1978",
+    "trouble index": 4,
+    "cost index": 3
+  },
+  {
+    "model": "Volkswagen Rabbit (diesel)",
+    "year": "1979",
+    "trouble index": 4,
+    "cost index": 3
+  },
+  {
+    "model": "Volkswagen Rabbit (diesel)",
+    "year": "1980",
+    "trouble index": 3,
+    "cost index": 3
+  },
+  {
+    "model": "Volkswagen Rabbit (diesel)",
+    "year": "1981",
+    "trouble index": 3,
+    "cost index": 3
+  },
+  {
+    "model": "Volva 240 series",
+    "year": "1976",
+    "trouble index": 4,
+    "cost index": 2
+  },
+  {
+    "model": "Volva 240 series",
+    "year": "1977",
+    "trouble index": 5,
+    "cost index": 3
+  },
+  {
+    "model": "Volva 240 series",
+    "year": "1978",
+    "trouble index": 5,
+    "cost index": 3
+  },
+  {
+    "model": "Volva 240 series",
+    "year": "1979",
+    "trouble index": 5,
+    "cost index": 2
+  },
+  {
+    "model": "Volva 240 series",
+    "year": "1980",
+    "trouble index": 5,
+    "cost index": 2
+  },
+  {
+    "model": "Volva 240 series",
+    "year": "1981",
+    "trouble index": 5,
+    "cost index": 2
+  }
+]
